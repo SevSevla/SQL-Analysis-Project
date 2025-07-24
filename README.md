@@ -15,5 +15,4 @@ This repository contains a collection of SQL queries used for analyzing business
 - SQL Server (T-SQL)
 - Source: star schema sample data (`gold.fact_sales`, `gold.dim_products`, etc.)
 
-## 👤 Author
-Hugo Alves
+
